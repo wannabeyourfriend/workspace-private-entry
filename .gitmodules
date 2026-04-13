@@ -1,0 +1,16 @@
+[submodule "harness-evolve"]
+	path = harness-evolve
+	url = https://github.com/wannabeyourfriend/harness-evolve.git
+[submodule "data-pipeline-v2-v3-multi-tom-bench-proposal"]
+	path = data-pipeline-v2-v3-multi-tom-bench-proposal
+	url = https://github.com/wannabeyourfriend/DeepPersonaBench.git
+[submodule "data-pipeline-v1-prompts-calibrate"]
+	path = data-pipeline-v1-prompts-calibrate
+	url = https://github.com/wannabeyourfriend/DeepPersonaBench.git
+[submodule "model-trainer-deployer"]
+	path = model-trainer-deployer
+	url = https://github.com/wannabeyourfriend/s3-sim-private-dev-repo.git
+	branch = model-trainer-deployer
+[submodule "data-pipeline-v4-release"]
+	path = data-pipeline-v4-release
+	url = https://github.com/wannabeyourfriend/s3-sim-private-dev-repo.git
